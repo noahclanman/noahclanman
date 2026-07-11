@@ -1,67 +1,47 @@
-<div align="center">
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Noah+Clanman;Developer+%26+Technology+Explorer" alt="Animated introduction" /><p>
+I build practical web tools, explore cloud infrastructure, and experiment with networking and automation.
+</p><a href="https://opencfg.xyz">
+  <img src="https://img.shields.io/badge/Website-opencfg.xyz-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+<a href="https://github.com/noahclanman?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github" alt="Repositories">
+</a></div>---
 
-# Hi, I'm Noah 👋
+About
 
-Developer, builder, and technology explorer from the Philippines.
+I am a developer from the Philippines who enjoys learning through real projects.
 
-I enjoy working with web applications, Linux servers, cloud platforms, networking, and automation.
+My main interests include:
 
-[![Website](https://img.shields.io/badge/Website-opencfg.xyz-0A66C2?style=flat-square\&logo=googlechrome\&logoColor=white)](https://opencfg.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-noahclanman-181717?style=flat-square\&logo=github)](https://github.com/noahclanman)
+- Web development and automation
+- Linux servers and cloud deployment
+- Networking, VPN, V2Ray, and tunneling
+- AI-assisted development
 
-</div>
+Currently building and maintaining "OpenCFG" (https://opencfg.xyz).
 
-## About Me
+Technologies
 
-* Building and maintaining [OpenCFG](https://opencfg.xyz)
-* Interested in web development, networking, Linux, and cloud infrastructure
-* Exploring automation, AI tools, VPN technologies, and server deployment
-* Learning through practical projects and open-source development
+<div align="center"><img src="https://skillicons.dev/icons?i=js,html,css,php,python,bash,nodejs,linux,debian,nginx,mysql,git,github,vercel,cloudflare&perline=8" alt="Technology stack"></div>Featured Work
 
-## Tech Stack
+"V2Ray Vercel Relay" (https://github.com/noahclanman/v2ray-vercel-relay)
 
-<div align="center">
+An XHTTP relay for Vercel and Railway with configurable regions and TLS origin support.
 
-<img src="https://skillicons.dev/icons?i=js,html,css,php,python,bash,nodejs,linux,debian,ubuntu,nginx,mysql,git,github,vercel,cloudflare&perline=8" alt="Tech Stack"/>
+"GAEC" (https://github.com/noahclanman/gaec)
 
-</div>
+A website analysis tool for checking common Google AdSense readiness requirements.
 
-## Featured Projects
+"OpenCFG" (https://opencfg.xyz)
 
-### [V2Ray Vercel Relay](https://github.com/noahclanman/v2ray-vercel-relay)
+A platform focused on SSH, VPN, V2Ray, tunneling, and networking tools.
 
-XHTTP relay deployment for Vercel and Railway with TLS origin support and configurable regions.
+GitHub Activity
 
-### [GAEC](https://github.com/noahclanman/gaec)
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=noahclanman&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahclanman&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages"><br><img src="https://streak-stats.demolab.com?user=noahclanman&hide_border=true&theme=transparent" alt="GitHub contribution streak"></div>---
 
-A website analysis tool designed to check common Google AdSense readiness requirements.
+<div align="center">Build. Explore. Improve.
 
-### [OpenCFG](https://opencfg.xyz)
-
-A platform focused on SSH, VPN, V2Ray, networking tools, and related services.
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=noahclanman&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahclanman&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=noahclanman&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-Building, exploring, and improving one project at a time.
+<sub>Turning ideas into useful projects, one commit at a time.</sub>
 
 </div>
