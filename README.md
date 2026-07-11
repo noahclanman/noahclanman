@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=2F6F62&text=noahclanman&fontColor=F6F7F5&fontSize=42&fontAlignY=45" width="100%"/>
-
 **Full-Stack Developer — building fast, functional things for the web**
 
 </div>
 
-<br/>
-
+<div>
 ```bash
 $ whoami
 > Full-stack developer focused on clean code and interfaces that just work.
