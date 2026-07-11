@@ -1,11 +1,5 @@
 <div align="center">
 
-**Full-Stack Developer — building fast, functional things for the web**
-
-</div>
-<br/>
-<div>
-  
 ```bash
 $ whoami
 > Full-stack developer focused on clean code and interfaces that just work.
