@@ -3,8 +3,9 @@
 **Full-Stack Developer — building fast, functional things for the web**
 
 </div>
-
+<br/>
 <div>
+  
 ```bash
 $ whoami
 > Full-stack developer focused on clean code and interfaces that just work.
@@ -12,4 +13,5 @@ $ whoami
 > Currently: [building / learning — edit this line]
 > Stack: JavaScript / TypeScript · React · Node.js · PostgreSQL
 ```
+
 </div>
