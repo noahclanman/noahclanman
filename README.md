@@ -1,31 +1,63 @@
-<div align="center">NOAH CLANMAN
+<div align="center">
 
-Developer · Systems Explorer · Open-Source Builder
+# NOAH CLANMAN
 
-Building practical web tools, cloud solutions, and networking projects.
+### Developer behind [OpenCFG](https://opencfg.xyz)
 
-"Website" (https://opencfg.xyz) · "Projects" (https://github.com/noahclanman?tab=repositories)
+**Building infrastructure tools for connectivity, deployment, and the modern web.**
 
-</div>---
+<a href="https://opencfg.xyz">
+  <img src="https://img.shields.io/badge/OPENCFG-VISIT_PLATFORM-0969DA?style=for-the-badge" alt="OpenCFG">
+</a>
+<a href="https://github.com/noahclanman?tab=repositories">
+  <img src="https://img.shields.io/badge/GITHUB-VIEW_PROJECTS-181717?style=for-the-badge&logo=github" alt="Projects">
+</a>
 
-About
+</div>
 
-I develop and experiment with web applications, Linux servers, automation, cloud infrastructure, and networking technologies.
+## Expertise
 
-Currently building "OpenCFG" (https://opencfg.xyz).
+`Web Platforms` · `Linux Systems` · `Cloud Deployment` · `Networking` · `Automation`
 
-Focus
+## Selected Work
 
-"Web Development" · "Linux" · "Cloud" · "Networking" · "Automation"
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Selected Work
+### [OpenCFG](https://opencfg.xyz)
 
-- "V2Ray Vercel Relay" (https://github.com/noahclanman/v2ray-vercel-relay) — XHTTP relay for Vercel and Railway
-- "GAEC" (https://github.com/noahclanman/gaec) — Website and AdSense readiness analysis
-- "OpenCFG" (https://opencfg.xyz) — SSH, VPN, V2Ray, and networking platform
+Infrastructure platform for SSH, VPN, V2Ray, and networking services.
 
----
+</td>
+<td width="50%" valign="top">
 
-<div align="center">Building reliable tools through continuous exploration.
+### [V2Ray Vercel Relay](https://github.com/noahclanman/v2ray-vercel-relay)
+
+Cloud-ready XHTTP relay built for Vercel and Railway.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [GAEC](https://github.com/noahclanman/gaec)
+
+Automated website readiness and AdSense analysis tool.
+
+</td>
+<td width="50%" valign="top">
+
+### Current Direction
+
+AI-assisted development, distributed systems, and server automation.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**BUILD WITH PURPOSE. SHIP WITH CONFIDENCE.**
 
 </div>
