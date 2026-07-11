@@ -1,10 +1,8 @@
 <div align="center">
 
-# noahclanman
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=2F6F62&text=noahclanman&fontColor=F6F7F5&fontSize=42&fontAlignY=45" width="100%"/>
 
-### Full‑Stack Developer — building fast, functional things for the web
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2F6F62" width="100%"/>
+**Full-Stack Developer — building fast, functional things for the web**
 
 </div>
 
@@ -18,9 +16,7 @@ $ whoami
 > Stack: JavaScript / TypeScript · React · Node.js · PostgreSQL
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=DADFDB" width="100%"/>
-
-## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=2F6F62&text=Tech%20Stack&fontColor=F6F7F5&fontSize=16&fontAlignY=65" width="100%"/>
 
 **Frontend**
 <br/>
@@ -34,9 +30,7 @@ $ whoami
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,aws" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=DADFDB" width="100%"/>
-
-## GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=2F6F62&text=GitHub%20Stats&fontColor=F6F7F5&fontSize=16&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -47,9 +41,7 @@ $ whoami
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=DADFDB" width="100%"/>
-
-## Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=2F6F62&text=Featured%20Projects&fontColor=F6F7F5&fontSize=16&fontAlignY=65" width="100%"/>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -57,9 +49,7 @@ $ whoami
 | [project-two](https://github.com/noahclanman/project-two) | One line on what it does and the problem it solves. | `Next.js` `TypeScript` |
 | [project-three](https://github.com/noahclanman/project-three) | One line on what it does and the problem it solves. | `Express` `MongoDB` |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=DADFDB" width="100%"/>
-
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=2F6F62&text=Connect&fontColor=F6F7F5&fontSize=16&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
