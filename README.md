@@ -1,63 +1,66 @@
 <div align="center">
 
-# NOAH CLANMAN
+<sub>INDEPENDENT SOFTWARE BUILDER · PHILIPPINES</sub>
 
-### Developer behind [OpenCFG](https://opencfg.xyz)
+# Noah Clanman
 
-**Building infrastructure tools for connectivity, deployment, and the modern web.**
+### Building tools for the open internet.
 
-<a href="https://opencfg.xyz">
-  <img src="https://img.shields.io/badge/OPENCFG-VISIT_PLATFORM-0969DA?style=for-the-badge" alt="OpenCFG">
-</a>
-<a href="https://github.com/noahclanman?tab=repositories">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW_PROJECTS-181717?style=for-the-badge&logo=github" alt="Projects">
-</a>
+Creator of **[OpenCFG](https://opencfg.xyz)** and open-source projects focused on connectivity, deployment, and web infrastructure.
+
+[**OPENCFG ↗**](https://opencfg.xyz) &nbsp;&nbsp; [**PROJECTS ↗**](https://github.com/noahclanman?tab=repositories)
 
 </div>
 
-## Expertise
-
-`Web Platforms` · `Linux Systems` · `Cloud Deployment` · `Networking` · `Automation`
-
-## Selected Work
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [OpenCFG](https://opencfg.xyz)
+<sub>01 / MAIN PLATFORM</sub>
 
-Infrastructure platform for SSH, VPN, V2Ray, and networking services.
+### OpenCFG
 
-</td>
-<td width="50%" valign="top">
+Internet services and practical tools for SSH, VPN, V2Ray, and modern web infrastructure.
 
-### [V2Ray Vercel Relay](https://github.com/noahclanman/v2ray-vercel-relay)
+<kbd>Networking</kbd> <kbd>Cloud</kbd> <kbd>Automation</kbd>
 
-Cloud-ready XHTTP relay built for Vercel and Railway.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [GAEC](https://github.com/noahclanman/gaec)
-
-Automated website readiness and AdSense analysis tool.
+[Visit platform →](https://opencfg.xyz)
 
 </td>
 <td width="50%" valign="top">
 
-### Current Direction
+<sub>02 / OPEN SOURCE</sub>
 
-AI-assisted development, distributed systems, and server automation.
+### Engineering Lab
+
+Experiments in serverless relays, deployment systems, web diagnostics, and Linux tooling.
+
+<kbd>Node.js</kbd> <kbd>Vercel</kbd> <kbd>Railway</kbd> <kbd>Linux</kbd>
+
+[Explore projects →](https://github.com/noahclanman?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
 
-**BUILD WITH PURPOSE. SHIP WITH CONFIDENCE.**
+<sub>SELECTED BUILDS</sub>
+
+### [v2ray-vercel-relay](https://github.com/noahclanman/v2ray-vercel-relay)
+
+XHTTP relay for Vercel and Railway with TLS origin support and selectable deployment regions.
+
+### [GAEC](https://github.com/noahclanman/gaec)
+
+Website readiness scanner powered by 55 automated checks for Google AdSense preparation.
+
+<br>
+
+<div align="right">
+
+<sub>BUILD → TEST → SHIP → IMPROVE</sub>
 
 </div>
