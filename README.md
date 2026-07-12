@@ -12,8 +12,8 @@ $ whoami
 <div>
 
 ```bash
-$ whoami
-> Full-stack developer focused on clean code and interfaces that just work.
+$ ./experience
+> Dolor sit amet. Life's too short for real text. Lorem ipsum fan. ✍️
 > Comfortable end-to-end: schema design, APIs, and pixel-level UI.
 > Currently: [building / learning — edit this line]
 > Stack: JavaScript / TypeScript · React · Node.js · PostgreSQL
