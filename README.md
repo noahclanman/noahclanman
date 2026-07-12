@@ -7,7 +7,7 @@ $ whoami
 > Currently: building and learning www.opencfg.xyz
 > Stack: JavaScript / TypeScript · React · Node.js · PostgreSQL · etc
 
-$ clone
+$ git clone me
 > Heres my other / deprecated github user: arisedeepseek-dev.
 ```
 
