@@ -6,6 +6,8 @@ $ whoami
 > Comfortable end-to-end: schema design, APIs, and pixel-level UI.
 > Currently: building and learning www.opencfg.xyz
 > Stack: JavaScript / TypeScript · React · Node.js · PostgreSQL · etc
+$ clone
+> Here's my other/deprecated github user: arisedeepseek-dev.
 ```
 
 </div>
