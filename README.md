@@ -7,7 +7,7 @@ $ whoami
 > Currently: building and learning www.opencfg.xyz
 > Stack: JavaScript / TypeScript · React · Node.js · PostgreSQL · etc
 $ clone
-> Here's my other/deprecated github user: arisedeepseek-dev.
+> Heres my other / deprecated github user: arisedeepseek-dev.
 ```
 
 </div>
